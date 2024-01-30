@@ -1,6 +1,6 @@
-#CODSOFT JAVA-PROGRAMMING
+# CODSOFT JAVA-PROGRAMMING
 
-#Task 1
+# Task 1
 
 Number Guessing Game
 
@@ -43,13 +43,13 @@ Input the number of subjects and their marks.
 Calculates total marks and average percentage.
 Assigns a grade based on the average percentage achieved.
 
-#Task 3
+# Task 3
 
 Student Management System
 
 This is a simple Student Management System implemented in Java. It allows users to manage a collection of students, including adding, removing, searching, and displaying student information.
 
-#Features
+# Features
 
 Add a new student with their name, roll number, and grade.
 Remove a student by their roll number.
